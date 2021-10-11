@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.bg1.col {
+  padding: 20px;
+  background: #ccc;
+}
+
+.bg2.col {
+  background: red;
+  padding: 20px;
+}
